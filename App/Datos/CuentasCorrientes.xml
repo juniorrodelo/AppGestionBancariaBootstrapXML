@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Cuentas>
+  <Corriente>
+    <Cliente>Juan</Cliente>
+    <IDCliente>232</IDCliente>
+    <Identificacion>23</Identificacion>
+    <Balance>2323</Balance>
+    <LimiteCreditos>2323</LimiteCreditos>
+    <TasaInteres>23232</TasaInteres>
+  </Corriente>
+</Cuentas>
